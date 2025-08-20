@@ -22,7 +22,3 @@
    <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
    <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 </div>
-
-![Snake animation](https://github.com/Juuh07/blob/output/github-contribution-grid-snake.svg)
-
-![readme](https://github-readme-stats.vercel.app/api/pin/?username=Juuh07&repo=Juuh07&theme=react)[](https://github.com/Juuh07/Juuh07)
