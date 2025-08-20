@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Julia!
+# Olá, eu sou a Júlia!
 
 🎓 Estudante de Ciência da Computação
 
