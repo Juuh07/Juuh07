@@ -43,14 +43,6 @@
   </table>
 </div>
 
----
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTUxN2NqeTVpN2J0dnh4d283Y2U0cW5zaGMxeG5tNzJjMHprdzlrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
-</p>
-
----
-
 <p align="center">
  <picture align="center">
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juuh07/Juuh07/output/github-contribution-grid-snake-dark.svg">
@@ -59,3 +51,16 @@
  </picture>
 </p>
 
+<div align="center">
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/64cc2da2-f500-4b34-9a9b-8e6fb5512556" />
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f05f9274-dfc9-47e6-9c94-4cab4a2e20be" />
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/cbe414ec-0f74-4294-a72a-071bafa6085f" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTUxN2NqeTVpN2J0dnh4d283Y2U0cW5zaGMxeG5tNzJjMHprdzlrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
+</p>
+
+---
