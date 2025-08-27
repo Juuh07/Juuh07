@@ -51,12 +51,6 @@
  </picture>
 </p>
 
-<div align="center">
-  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/64cc2da2-f500-4b34-9a9b-8e6fb5512556" />
-  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f05f9274-dfc9-47e6-9c94-4cab4a2e20be" />
-  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/cbe414ec-0f74-4294-a72a-071bafa6085f" />
-</div>
-
 ---
 
 <p align="center">
