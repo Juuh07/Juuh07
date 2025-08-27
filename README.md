@@ -12,7 +12,7 @@
 
 ---
 
-![Julia GitHub stats](https://github-readme-stats.vercel.app/api?username=Juuh07&show_icons=true&theme=dracula)  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juuh07&layout=compact&theme=dracula)
+![Julia GitHub stats](https://github-readme-stats.vercel.app/api?username=Juuh07&show_icons=true&theme=midnight-purple)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juuh07&layout=compact&theme=midnight-purple">
 
 ---
 <div>
