@@ -12,7 +12,15 @@
 
 ---
 
-![Julia GitHub stats](https://github-readme-stats.vercel.app/api?username=Juuh07&show_icons=true&theme=midnight-purple)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juuh07&layout=compact&theme=midnight-purple">
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Juuh07&show_icons=true&theme=midnight-purple" alt="Julia GitHub stats" width="500" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juuh07&layout=compact&theme=midnight-purple">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTUxN2NqeTVpN2J0dnh4d283Y2U0cW5zaGMxeG5tNzJjMHprdzlrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
+</p>
 
 ---
 <div>
