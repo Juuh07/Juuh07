@@ -15,6 +15,14 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Juuh07&show_icons=true&theme=midnight-purple" alt="Julia GitHub stats" width="500" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juuh07&layout=compact&theme=midnight-purple">
 </p>
+<div>
+   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+   <img heigth="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+</div>
 
 ---
 
@@ -23,13 +31,6 @@
 </p>
 
 ---
-<div>
-   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juuh07/Juuh07/output/github-contribution-grid-snake-dark.svg">
