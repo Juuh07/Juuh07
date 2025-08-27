@@ -30,3 +30,5 @@
    <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
    <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 </div>
+
+![GitHub Snake](https://github.com/Juuh07/Juuh07/raw/output/github-snake.svg)
