@@ -4,7 +4,7 @@
 
 💻 Meu objetivo é evoluir como desenvolvedora e compartilhar minha jornada aqui no GitHub
 
-🚀 Apaixonada por tecnologia, aprendizado contínuo e desafios
+🚀 Apaixonada por tecnologia, aprendizado contínuo
 
 ## 📚 O que estou estudando agora
 - ☕ Java
