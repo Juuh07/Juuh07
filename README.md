@@ -22,7 +22,7 @@
         <table>
           <tr>
             <td align="center">
-              
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juuh07&layout=compact&langs_count=6&hide_progress=false&theme=midnight-purple" alt="Top Langs">
             </td>
           </tr>
           <tr>
