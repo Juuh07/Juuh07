@@ -9,6 +9,7 @@
 ## 📚 O que estou estudando agora
 - ☕ Java
 - 🗄️ SQL
+- 🐧 Linux
 
 ---
 
