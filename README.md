@@ -12,37 +12,7 @@
 - 🐧 Linux
 
 ---
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Juuh07&show_icons=true&theme=midnight-purple" alt="Julia GitHub stats" width="500" />
-      </td>
-      <td>
-        <table>
-          <tr>
-            <td align="center">
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juuh07&layout=compact&langs_count=6&hide_progress=false&theme=midnight-purple&cache_seconds=3598" alt="Top Langs">
-            </td>
-          </tr>
-          <tr>
-            <td align="center">
-              <div>
-                <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-                <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-                <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-                <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-                <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-                <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-              </div>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
+![Metrics](https://metrics.lecoq.io/Juuh07?template=classic&languages=1&isocalendar=1&theme=dark)
 
 
 ---
