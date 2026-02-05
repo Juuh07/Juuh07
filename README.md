@@ -17,13 +17,13 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Juuh07&show_icons=true&theme=midnight-purple" alt="Julia GitHub stats" width="501" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Juuh07&show_icons=true&theme=midnight-purple" alt="Julia GitHub stats" width="500" />
       </td>
       <td>
         <table>
           <tr>
             <td align="center">
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juuh07&layout=compact&langs_count=6&hide_progress=false&theme=midnight-purple&cache_seconds=3597" alt="Top Langs">
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juuh07&layout=compact&langs_count=6&hide_progress=false&theme=midnight-purple&cache_seconds=3598" alt="Top Langs">
             </td>
           </tr>
           <tr>
