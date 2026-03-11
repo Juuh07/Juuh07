@@ -20,7 +20,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1)
 ![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624)
-![Obsidian](https://img.shields.io/badge/Obsidian-111111?style=flat-square&logo=obsidian&logoColor=7C6AE6)
 
 ---
 
