@@ -13,11 +13,10 @@
 
 ---
 
-<div align=center>
-  
-  ![github stats](https://github-readme-stats.vercel.app/api?username=Juuh07&show_icons=true&theme=midnight-purple)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juuh07&layout=compact&theme=midnight-purple&card_width=375)
-</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Juuh07&theme=midnight-purple&hide=stars&hide_border=true" alt="Github Stats">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Juuh07&langs_count=6&layout=compact&theme=midnight-purple&hide_border=true&" alt="Top Langs" width="310">
+</p>
 
 <div align=center>
   <picture>
