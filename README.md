@@ -19,6 +19,7 @@
     <a href="https://learnpython.org/"><img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=facc56" alt="Python"></a>
     <a href="https://www.w3schools.com/java/"><img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=orange" alt="Java"></a>
     <a href="https://www.learncpp.com/"><img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=326393" alt="PostgreSQL"></a>
+    <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/UBUNTU-000000?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu"></a>
     <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/OBSIDIAN-000000?style=for-the-badge&logo=obsidian&logoColor=5327ad" alt="Obsidian"></a>
 </p>
 
