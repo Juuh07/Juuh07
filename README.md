@@ -12,7 +12,7 @@
 - 🐧 Linux
 
 ---
-<p>
+<p align=center>
     <a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=e44c24" alt="HTML"></a>
     <a href="https://web.dev/learn/css/welcome?hl=pt"><img src="https://img.shields.io/badge/CSS3-000000?&style=for-the-badge&logo=css&logoColor=2a65f0" alt="CSS"></a>
     <a href="https://web.dev/learn/javascript"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=f4dc1c" alt="JavaScript"></a>
@@ -27,6 +27,8 @@
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Juuh07&langs_count=6&layout=compact&theme=midnight-purple&hide_border=true&" alt="Top Langs" width="310">
 </p>
 
+---
+
 <div align=center>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
@@ -34,6 +36,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
-
