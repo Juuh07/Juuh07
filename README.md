@@ -8,7 +8,7 @@
 
 ## 📚 O que estou estudando agora
 - ☕ Java
-- 💜 Kotlin
+- 📱 Kotlin
 - 🐧 Linux
 
 ---
