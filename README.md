@@ -1,7 +1,7 @@
 # Hi, I'm Júlia!
 
 ### 🎓 Computer Science Student
-
+### 🚀 Sharing my journey
 ---
 <p align=center>
     <a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=e44c24" alt="HTML"></a>
