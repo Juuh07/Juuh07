@@ -1,15 +1,6 @@
-# Olá, eu sou a Júlia!
+# Hi, I'm Júlia!
 
-🎓 Estudante de Ciência da Computação
-
-💻 Meu objetivo é evoluir como desenvolvedora e compartilhar minha jornada aqui no GitHub
-
-🚀 Apaixonada por tecnologia, aprendizado contínuo
-
-## 📚 O que estou estudando agora
-- ☕ Java
-- 📱 Kotlin
-- 🐧 Linux
+🎓 Computer Science Student
 
 ---
 <p align=center>
