@@ -7,6 +7,8 @@
     <a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=e44c24" alt="HTML"></a>
     <a href="https://web.dev/learn/css/welcome?hl=pt"><img src="https://img.shields.io/badge/CSS3-000000?&style=for-the-badge&logo=css&logoColor=2a65f0" alt="CSS"></a>
     <a href="https://web.dev/learn/javascript"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=f4dc1c" alt="JavaScript"></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"></a>
+    <a href="https://react.dev/"><img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
     <a href="https://learnpython.org/"><img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=facc56" alt="Python"></a>
     <a href="https://www.w3schools.com/java/"><img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=orange" alt="Java"></a>
     <a href="https://www.learncpp.com/"><img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=326393" alt="PostgreSQL"></a>
