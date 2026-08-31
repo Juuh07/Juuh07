@@ -9,6 +9,7 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=f4dc1c" alt="JavaScript"></a>
     <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=facc56" alt="Python"></a>
     <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=orange" alt="Java"></a>
+    <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/SPRING_BOOT-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot"></a>
     <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=326393" alt="PostgreSQL"></a>
     <a href="https://docs.fedoraproject.org/"><img src="https://img.shields.io/badge/FEDORA-000000?style=for-the-badge&logo=fedora&logoColor=51A2DA" alt="Fedora"></a>
 </p>
