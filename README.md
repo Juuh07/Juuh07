@@ -16,7 +16,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Juuh07&theme=midnight-purple&hide=stars&hide_border=true" alt="Github Stats">
-
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Juuh07&langs_count=6&layout=compact&theme=midnight-purple&hide_border=true&v=1" alt="Top Langs" width="310">
 </p>
 
 ---
