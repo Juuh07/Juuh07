@@ -10,6 +10,7 @@
     <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=facc56" alt="Python"></a>
     <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=orange" alt="Java"></a>
     <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=326393" alt="PostgreSQL"></a>
+    <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"></a>
     <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"></a>
     <a href="https://docs.fedoraproject.org/"><img src="https://img.shields.io/badge/FEDORA-000000?style=for-the-badge&logo=fedora&logoColor=51A2DA" alt="Fedora"></a>
 </p>
