@@ -12,6 +12,7 @@
     <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=326393" alt="PostgreSQL"></a>
     <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"></a>
     <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"></a>
+    <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/KUBERNETES-000000?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes"></a>
     <a href="https://docs.fedoraproject.org/"><img src="https://img.shields.io/badge/FEDORA-000000?style=for-the-badge&logo=fedora&logoColor=51A2DA" alt="Fedora"></a>
 </p>
 
